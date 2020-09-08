@@ -74,3 +74,10 @@
 
 ## 06. LinkedList
 
+
+## 07. Graph
+
+|   출처   | No.  |            문제            |                           Link                           |                             Code                             |
+| :------: | :--: | :------------------------: | :------------------------------------------------------: | :----------------------------------------------------------: |
+| LeetCode | 200  | Number of Islands(섬 개수) | [link](https://leetcode.com/problems/number-of-islands/) | [leet_200.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_200.py) |
+
