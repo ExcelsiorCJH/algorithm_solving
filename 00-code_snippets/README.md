@@ -72,5 +72,3 @@ def iterative_bfs(graph, start_v):
     return discovered
 ```
 
-
-
