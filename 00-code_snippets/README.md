@@ -72,3 +72,37 @@ def iterative_bfs(graph, start_v):
     return discovered
 ```
 
+
+
+### 3) DFS 동서남북 탐색
+
+```python
+# up, down, left, right
+directions = [
+    (0, -1),
+    (0, 1),
+    (-1, 0),
+    (1, 0),
+]
+
+def dfs(graph, x, y, directions):
+    visited = []
+    stack = [(x, y)]
+
+    while stack:
+        sx, sy = stack.pop()
+        # ch = graph[sx][sy]
+        if (sx, sy) not in visited:
+            visited.append((sx, sy))
+            for nx, ny in directions:
+                nx += sx
+                ny += sy
+                if (
+                    (0 <= nx < N and 0 <= ny < N)
+                    # and graph[nx][ny] == ch
+                    and (nx, ny) not in visited
+                ):
+                    stack.append((nx, ny))
+    return visited
+```
+
