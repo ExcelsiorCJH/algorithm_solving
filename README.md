@@ -83,4 +83,4 @@
 | LeetCode |  17  | Letter Combinations of a Phone Number | [link](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [leet_17.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_17.py) |
 | LeetCode |  46  |             Permutations              |     [link](https://leetcode.com/problems/permutations/)      | [leet_46.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_46.py) |
 | LeetCode |  77  |             Combinations              |     [link](https://leetcode.com/problems/combinations/)      | [leet_77.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_77.py) |
-
+| LeetCode |  39  |             Combination Sum              |     [link](https://leetcode.com/problems/combination-sum/)      | [leet_77.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_39.py) |
