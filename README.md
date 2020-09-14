@@ -85,4 +85,4 @@
 | LeetCode |  77  |             Combinations              |     [link](https://leetcode.com/problems/combinations/)      | [leet_77.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_77.py) |
 | LeetCode |  39  |             Combination Sum              |     [link](https://leetcode.com/problems/combination-sum/)      | [leet_39.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_39.py) |
 | LeetCode |  78  |             Subsets              |     [link](https://leetcode.com/problems/subsets/)      | [leet_78.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_78.py) |
-| LeetCode |  332  |             Subsets              |     [link](https://leetcode.com/problems/reconstruct-itinerary/)      | [leet_332.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_332.py) |
+| LeetCode |  332  |             Reconstruct Itinerary              |     [link](https://leetcode.com/problems/reconstruct-itinerary/)      | [leet_332.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_332.py) |
