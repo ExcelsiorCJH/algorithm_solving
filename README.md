@@ -93,4 +93,5 @@
 
 |   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
 | :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| LeetCode | 743  |      Network Delay Time       |   [link](https://leetcode.com/problems/network-delay-time/)   | [leet_200.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/leet_743.py) |
+| LeetCode | 743  |      Network Delay Time       |   [link](https://leetcode.com/problems/network-delay-time/)   | [leet_743.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/leet_743.py) |
+| LeetCode | 787  |      Cheapest Flights Within K Stops       |   [link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)   | [leet_787.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/leet_787.py) |
