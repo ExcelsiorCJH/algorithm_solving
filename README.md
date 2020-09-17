@@ -101,4 +101,5 @@
 
 |   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
 | :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| LeetCode | 743  |      Maximum Depth of Binary Tree      |   [link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   | [leet_104.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/09-Tree/leet_104.py) |
+| LeetCode | 104  |      Maximum Depth of Binary Tree      |   [link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   | [leet_104.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/09-Tree/leet_104.py) |
+| LeetCode | 543  |      Diameter of Binary Tree      |   [link](https://leetcode.com/problems/diameter-of-binary-tree/)   | [leet_543.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/09-Tree/leet_543.py) |
