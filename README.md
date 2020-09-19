@@ -88,6 +88,7 @@
 | LeetCode |  332  |             Reconstruct Itinerary              |     [link](https://leetcode.com/problems/reconstruct-itinerary/)      | [leet_332.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_332.py) |
 | LeetCode |  207  |             Course Schedule              |     [link](https://leetcode.com/problems/course-schedule/)      | [leet_207.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/leet_207.py) |
 | BaekJoon |  1260  |             DFS와 BFS              |     [link](https://www.acmicpc.net/problem/1260)      | [bkjn_1260.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/bkjn_1260.py) |
+| BaekJoon |  2606  |             바이러스             |     [link](https://www.acmicpc.net/problem/2606)      | [bkjn_2606.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/bkjn_2606.py) |
 
 
 
