@@ -103,3 +103,4 @@
 | :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | LeetCode | 104  |      Maximum Depth of Binary Tree      |   [link](https://leetcode.com/problems/maximum-depth-of-binary-tree/)   | [leet_104.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/09-Tree/leet_104.py) |
 | LeetCode | 543  |      Diameter of Binary Tree      |   [link](https://leetcode.com/problems/diameter-of-binary-tree/)   | [leet_543.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/09-Tree/leet_543.py) |
+| LeetCode | 687  |      Longest Univalue Path      |   [link](https://leetcode.com/problems/longest-univalue-path/)   | [leet_687.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/09-Tree/leet_687.py) |
