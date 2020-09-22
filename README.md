@@ -90,6 +90,7 @@
 | BaekJoon |  1260  |             DFS와 BFS              |     [link](https://www.acmicpc.net/problem/1260)      | [bkjn_1260.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/bkjn_1260.py) |
 | BaekJoon |  2606  |             바이러스             |     [link](https://www.acmicpc.net/problem/2606)      | [bkjn_2606.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/bkjn_2606.py) |
 | BaekJoon |  2667  |             단지번호붙이기             |     [link](https://www.acmicpc.net/problem/2667)      | [bkjn_2667.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/bkjn_2667.py) |
+| BaekJoon |  1012  |             유기농배추             |     [link](https://www.acmicpc.net/problem/1012)      | [bkjn_1012.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/07-Graph/bkjn_1012.py) |
 
 
 
