@@ -103,6 +103,7 @@
 | LeetCode | 743  |      Network Delay Time       |   [link](https://leetcode.com/problems/network-delay-time/)   | [leet_743.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/leet_743.py) |
 | LeetCode | 787  |      Cheapest Flights Within K Stops       |   [link](https://leetcode.com/problems/cheapest-flights-within-k-stops/)   | [leet_787.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/leet_787.py) |
 | BaekJoon | 1753  |      최단경로      |   [link](https://www.acmicpc.net/problem/1753)   | [bkjn_1753.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/bkjn_1753.py) |
+| BaekJoon | 1504  |      특정한 최단경로      |   [link](https://www.acmicpc.net/problem/1504)   | [bkjn_1753.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/08-Shortest_Path/bkjn_1504.py) |
 
 
 ## 09. Tree
