@@ -58,6 +58,8 @@
 | 프로그래머스 |      | K번 째 큰 수 | [link](https://programmers.co.kr/learn/courses/30/parts/12198) | [01.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/01.ipynb) |
 | 프로그래머스 |      |  가장 큰 수  | [link](https://programmers.co.kr/learn/courses/30/parts/12198) | [02.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/02.ipynb) |
 | 프로그래머스 |      |   H-Index    | [link](https://programmers.co.kr/learn/courses/30/parts/12198) | [03.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/03.ipynb) |
+| LeetCode | 148  |      Sort List      |   [link](https://leetcode.com/problems/sort-list/)   | [leet_148.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_148.py) |
+| LeetCode | 56  |      Merge Intervals      |   [link](https://leetcode.com/problems/merge-intervals/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_56.py) |
 
 
 
