@@ -60,6 +60,8 @@
 | 프로그래머스 |      |   H-Index    | [link](https://programmers.co.kr/learn/courses/30/parts/12198) | [03.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/03.ipynb) |
 | LeetCode | 148  |      Sort List      |   [link](https://leetcode.com/problems/sort-list/)   | [leet_148.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_148.py) |
 | LeetCode | 56  |      Merge Intervals      |   [link](https://leetcode.com/problems/merge-intervals/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_56.py) |
+| LeetCode | 242  |      Valid Anagram      |   [link](https://leetcode.com/problems/valid-anagram/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_242.py) |
+| LeetCode | 75  |      Sort Colors      |   [link](https://leetcode.com/problems/sort-colors/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_75.py) |
 
 
 
