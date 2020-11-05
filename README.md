@@ -62,6 +62,7 @@
 | LeetCode | 56  |      Merge Intervals      |   [link](https://leetcode.com/problems/merge-intervals/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_56.py) |
 | LeetCode | 242  |      Valid Anagram      |   [link](https://leetcode.com/problems/valid-anagram/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_242.py) |
 | LeetCode | 75  |      Sort Colors      |   [link](https://leetcode.com/problems/sort-colors/)   | [leet_56.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_75.py) |
+| LeetCode | 973  |      K Closest Points to Origin      |   [link](https://leetcode.com/problems/k-closest-points-to-origin/)   | [leet_973.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/04-Sort/leet_973.py) |
 
 
 
