@@ -127,3 +127,14 @@
 |   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
 | :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | LeetCode | 215  |      Kth Largest Element in a Array      |   [link](https://leetcode.com/problems/kth-largest-element-in-an-array/)   | [leet_215.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/10-Heap/leet_215.py) |
+
+
+## 11. Trie
+|   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
+| :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+
+
+## 12. Search
+|   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
+| :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| LeetCode | 704  |       Binary Search   |   [link](https://leetcode.com/problems/binary-search/)   | [leet_704.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/12-Search/leet_704.py) |
