@@ -138,3 +138,10 @@
 |   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
 | :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | LeetCode | 704  |       Binary Search   |   [link](https://leetcode.com/problems/binary-search/)   | [leet_704.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/12-Search/leet_704.py) |
+
+
+
+## Others
+|   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
+| :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| HackerRank |   |       Formina a Magic Number   |   [link](https://www.hackerrank.com/challenges/magic-square-forming/problem)   | [hr_magic_square.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/others/hr_magic_square.py) |
