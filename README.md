@@ -15,6 +15,7 @@
 |              SWEA              | 4839 |   이진탐색    |      | [q4839.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/01-List/q4839.py) |
 |              SWEA              | 4843 |  특별한정렬   |      | [q4843.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/01-List/q4843.py) |
 | LeetCode | 42  |      Trapping Rain Water     |   [link](https://leetcode.com/problems/trapping-rain-water/)   | [leet_42.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/01-List/leet_42.py) |
+| LeetCode | 15  |      3Sum     |   [link](hhttps://leetcode.com/problems/3sum/)   | [leet_15.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/01-List/leet_15.py) |
 
 
 
