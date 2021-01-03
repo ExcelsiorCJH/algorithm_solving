@@ -52,7 +52,7 @@
 |     SWEA     | 4874 |       Forth        |                                                              | [q4874.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/q4874.py) |
 |     SWEA     | 4875 |        미로        |                                                              | [q4875.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/q4875.py) |
 | LeetCode | 20  |      Valid Parentheses      |   [link](https://leetcode.com/problems/valid-parentheses/)   | [leet_20.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_20.py) |
-| LeetCode | 316  |      Remove Duplicate Letters      |   [link](https://leetcode.com/problems/remove-duplicate-letters/)   | [leet_20.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_316.py) |
+| LeetCode | 316  |      Remove Duplicate Letters      |   [link](https://leetcode.com/problems/remove-duplicate-letters/)   | [leet_316.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_316.py) |
 
 
 
