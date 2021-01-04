@@ -84,7 +84,10 @@
 
 
 ## 06. LinkedList
-
+|   출처   | No.  |                 문제                  |                             Link                             |                             Code                             |
+| :------: | :--: | :-----------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| LeetCode | 234  |      Palindrome Linked List       |   [link](https://leetcode.com/problems/palindrome-linked-list/)   | [leet_234.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/06-LinkedList/leet_234.py) |
+| LeetCode | 21  |      Merge Two Sorted Lists       |   [link](https://leetcode.com/problems/merge-two-sorted-lists/)   | [leet_21.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/06-LinkedList/leet_21.py) |
 
 ## 07. Graph
 
