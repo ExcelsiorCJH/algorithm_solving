@@ -54,6 +54,8 @@
 | LeetCode | 20  |      Valid Parentheses      |   [link](https://leetcode.com/problems/valid-parentheses/)   | [leet_20.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_20.py) |
 | LeetCode | 316  |      Remove Duplicate Letters      |   [link](https://leetcode.com/problems/remove-duplicate-letters/)   | [leet_316.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_316.py) |
 | LeetCode | 739  |      Daily Temperatures      |   [link](https://leetcode.com/problems/daily-temperatures/)   | [leet_739.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_739.py) |
+| LeetCode | 225  |      Implement Stack using Queues      |   [link](https://leetcode.com/problems/implement-stack-using-queues/)   | [leet_225.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_225.py) |
+| LeetCode | 232  |      Implement Queue using Stacks      |   [link](https://leetcode.com/problems/implement-queue-using-stacks/)   | [leet_232.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/03-Stack/leet_232.py) |
 
 
 
