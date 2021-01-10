@@ -82,6 +82,9 @@
 | 프로그래머스 |      |   전화번호 목록    | [link](https://programmers.co.kr/learn/courses/30/parts/12077) | [02-question.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/05-Hash/02-question.ipynb) |
 | 프로그래머스 |      |        위장        | [link](https://programmers.co.kr/learn/courses/30/parts/12077) | [03-question.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/05-Hash/03-question.ipynb) |
 | 프로그래머스 |      |     베스트앨범     | [link](https://programmers.co.kr/learn/courses/30/parts/12077) | [04-question.ipynb](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/05-Hash/04-question.ipynb) |
+| LeetCode | 771  |      Jewels and Stones      |   [link](https://leetcode.com/problems/jewels-and-stones/)   | [leet_771.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/05-Hash/leet_771.py) |
+| LeetCode | 347  |      Top K Frequent Elements      |   [link](https://leetcode.com/problems/top-k-frequent-elements/)   | [leet_347.py](https://github.com/ExcelsiorCJH/algorithm_solving/blob/master/05-Hash/leet_347.py) |
+
 
 
 
